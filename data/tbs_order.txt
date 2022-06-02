@@ -1,0 +1,3 @@
+	primary	M-bone	M-lung	primary	M-bone	primary	primary	primary	M-liver	primary	M-lung	primary	M-bone-lung	M-bone	M-lung	M-bone	primary	M-bone-lung	primary	M-bone	M-lung
+miRNA	FTC-20	FTC-4	FTC-21	FTC-3	FTC-13	FTC-12	FTC-7	FTC-1	FTC-19	FTC-17	FTC-14	FTC-16	FTC-6	FTC-8	FTC-2	FTC-10	FTC-15	FTC-5	FTC-18	FTC-22	FTC-11
+TBS-T	2.44	2.69	9.25	11.24	13	15.44	17	17.81	32.81	40	41	48.61	54.49	56.25	82.69	88.25	122	123.25	154.64	253.16	309.64
